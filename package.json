@@ -1,0 +1,29 @@
+{
+  "name": "skyrocket.js",
+  "version": "0.0.1",
+  "description": "Launch your website to a new level",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niemand.online/skyrocket.js.git"
+  },
+  "keywords": [
+    "typescript",
+    "library",
+    "canvas",
+    "skyrocket"
+  ],
+  "author": "niemand.online",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niemand.online/skyrocket.js/issues"
+  },
+  "homepage": "http://niemand.online/skyrocket.js",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-typescript": "^3.2.3",
+    "gulp-uglify": "^3.0.0",
+    "typescript": "^2.5.3"
+  }
+}
